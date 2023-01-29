@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1598488282 source:/home/ijkl/Code/Pizza Tycoon/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+
